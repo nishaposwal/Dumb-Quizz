@@ -1,5 +1,15 @@
 # Quiz
 
+## Purpuse of this project is to bind keys of keyboard to navigate around
+
+Press Enter to start quiz
+
+Use up and Down Arrow to select options
+
+# press Enter to answer the question
+
+# ============================================================================================================
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
 ## Development server
