@@ -1,0 +1,18 @@
+<div class="container" *ngIf="!quizFinished">
+  <div class="question">
+    {{ currentQuestion.question }}
+  </div>
+  <div
+    class="option"
+    *ngFor="let option of currentQuestion.options; let i = index"
+    [ngClass]="{ focus: optionIndex === i }"
+  >
+    {{ option }}
+  </div>
+</div>
+
+<div class="container" *ngIf="quizFinished">
+  <div class="question">Quiz Completed</div>
+
+  <div class="question">Your Points: {{ score }}</div>
+</div>
