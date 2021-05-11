@@ -1,0 +1,44 @@
+{
+    "questions": [
+        {
+            "question": "what do you like?",
+            "options": [
+                "sleeping",
+                "more sleeping",
+                "All day sleeping",
+                "sleeping hi sleeping"
+            ],
+            "answer": "All day sleeping"
+        },
+        {
+            "question": "what is your fav cartoon",
+            "options": [
+                "Doremon",
+                "sinchan",
+                "Nisha",
+                "Nisha Poswal"
+            ],
+            "answer": "sinchan"
+        },
+        {
+            "question": "what is your fav animal",
+            "options": [
+                "My best friend",
+                "My brother",
+                "snake",
+                "mosquito"
+            ],
+            "answer": "My best friend"
+        },
+        {
+            "question": "who do say to kill corona",
+            "options": [
+                "stay at home",
+                "say go corona , corona go!!",
+                "social distancing",
+                "chant mantras"
+            ],
+            "answer": "say go corona , corona go!!"
+        }
+    ]
+}
